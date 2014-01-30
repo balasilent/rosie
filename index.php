@@ -5,5 +5,6 @@
 		<?PHP include "menu.php"?>
 		<?PHP include "item.php"?>
 		<?PHP include "cart.php"?>
+		<?PHP include "swami.php"?>
 		</body>
 </html>
