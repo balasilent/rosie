@@ -5,12 +5,12 @@
 <meta http-equiv="content-language" content="en-GB" />
 <link rel="stylesheet" type="text/css" href="css/menu.css">
 <!-----SLIDING PANEL HEIGHT ADJUST TO DOCUMENT HEIGHT----->
-<script type="text/javascript">
+<!--<script type="text/javascript">
 $(document).ready(function() {
 	$("#menu").height($(document).height());
 });
 </script>
-
+-->
 <!-----SLIDING PANEL DELAY AND HIDE----->
 <script type="text/javascript">
 $(document).ready(function() {
@@ -27,14 +27,21 @@ $(document).ready(function() {
 	<div class="arrow"><</div>
     <nav class="nav">
         <a href="#">Home</a>
-        <a href="#">An introduction: Design in 2012</a>
-        <a href="#">Relevant figures in design</a>
-        <a href="#">Where is design heading?</a>
-        <a href="#">Influences</a>
-        <a href="#">Video</a>
-        <a href="#">Sources</a>
-		<a href="#">Swami</a>
-		<a href="#">Bala</a>
+        <a href="#">Vegetable</a>
+        <a href="#">Fruit</a>
+        <a href="#">Meat</a>
+        <a href="#">Seafood</a>
+        <a href="#">Dairy</a>
+        <a href="#">Bakery</a>
+		<a href="#">Pasta</a>
+		<a href="#">Grocery</a>
+		<a href="#">Bevrages</a>
+		<a href="#">Home-needs</a>
+		<a href="#">Health</a>
+		<a href="#">Nutrition</a>
+		<a href="#">Beauty</a>
+		<a href="#">Cosmetic</a>
+		<a href="#">Organic</a>
     </nav>
 </div>
 <!-----END SLIDING MENU PANEL----->
